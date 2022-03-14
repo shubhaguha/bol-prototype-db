@@ -1,8 +1,10 @@
 # bol-prototype-db
 
-Backend server URL: <https://my-json-server.typicode.com/shubhaguha/bol-prototype-db>
+~~Backend server URL: <https://my-json-server.typicode.com/shubhaguha/bol-prototype-db>~~
 
-Or start backend server locally:
+(Typicode server gives error: `maxContentLength size of 10000 exceeded`)
+
+Start backend server locally:
 
 ```shell
 npm install -g json-server
